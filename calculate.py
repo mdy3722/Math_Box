@@ -6,5 +6,5 @@ def sub(a, b):
 def divide(a, b):
     return a/b
 
-def mul(a, b):
+def mul_premium(a, b):
     return a*b
